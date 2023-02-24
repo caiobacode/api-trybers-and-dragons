@@ -9,6 +9,4 @@
 //   }
 // }
 
-//starting
-
 // export default Battle;
