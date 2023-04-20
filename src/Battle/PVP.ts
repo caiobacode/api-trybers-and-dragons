@@ -7,15 +7,10 @@ export default class PVP extends Battle {
   }
 
   fight(): number {
-    // While both players have life points greather than -1, the fight continues.
-    for (let stopfight = 100; stopfight !== -1; stopfight += 0) {
+    while (this.player1.lifePoints !== -1 && this.player2.lifePoints !== -1) {
       this.player1.attack(this.player2);
-      stopfight = this.player2.lifePoints;
-
       this.player2.attack(this.player1);
-      if (stopfight !== -1) stopfight = this.player1.lifePoints;
     }
-
     const fightResult = super.fight();
     return fightResult;
   }
