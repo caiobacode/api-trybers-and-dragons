@@ -5,7 +5,7 @@
 </div>
 
 ## Description
-<p>Blogs API is a RESTful API for managing users, categories, and posts for a blog. The API was built with Node.JS/Express, and MySQL/Sequelize are used as database system.</p>
+<p></p>
 
 ## 💻 Tecnologies used
 > [![Typescript][Typescript]][Typescript-url]
