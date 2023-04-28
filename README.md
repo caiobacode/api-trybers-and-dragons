@@ -5,12 +5,19 @@
 </div>
 
 ## Description
-<p></p>
+<p>"Trybers and Dragons" is a TypeScript project developed to study SOLID and OOP concepts</p>
 
 ## 💻 Tecnologies used
 > [![Typescript][Typescript]][Typescript-url]
  [![SOLID][SOLID]][SOLID-url]
  [![OOP][OOP]][OOP-url]
+ 
+ ## ✏️ What i learned
+
+- inheritance and composition concepts
+- Object-Oriented Programming concepts
+- Polymorphism
+- SOLID
 
 
 [Typescript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
