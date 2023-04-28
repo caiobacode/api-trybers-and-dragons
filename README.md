@@ -18,7 +18,7 @@ and types for a Dungeons and Dragons-style RPG game using OOP and SOLID principl
 
 - Hot to create classes, abstract classes and methods
 - Abstraction, Encapsulation, Inheritance, Composition and Polymorfism comcepts
-- SOLID principles: Single Responsability, Open/Closed, Dependency Inversion, Substitution (Liskov)
+- SOLID principles: <strong>S</strong>ingle Responsability, <strong>O</strong>pen/Closed, <strong>L</strong>iskov Substitution, <strong>I</strong>nterface segregation, <strong>D</strong>ependency Inversion
 
 
 [Typescript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
