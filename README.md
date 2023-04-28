@@ -14,10 +14,9 @@
  
  ## ✏️ What i learned
 
-- inheritance and composition concepts
-- Object-Oriented Programming concepts
-- Polymorphism
-- SOLID
+- Hot to create classes, abstract classes and methods
+- Abstraction, Encapsulation, Inheritance, Composition and Polymorfism comcepts
+- SOLID principles: Single Responsability, Open/Closed, Dependency Inversion, Substitution (Liskov)
 
 
 [Typescript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
