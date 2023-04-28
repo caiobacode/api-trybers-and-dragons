@@ -5,7 +5,9 @@
 </div>
 
 ## Description
-<p>"Trybers and Dragons" is a TypeScript project developed to study SOLID and OOP concepts</p>
+
+<p>"Trybers and Dragons" is a TypeScript project that i had to develop classes, interfaces 
+and types for a Dungeons and Dragons-style RPG game using OOP and SOLID principles</p>
 
 ## 💻 Tecnologies used
 > [![Typescript][Typescript]][Typescript-url]
