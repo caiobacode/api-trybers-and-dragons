@@ -14,11 +14,17 @@ and types for a Dungeons and Dragons-style RPG game using OOP and SOLID principl
  [![SOLID][SOLID]][SOLID-url]
  [![OOP][OOP]][OOP-url]
  
- ## ✏️ What i learned
+## ✏️ What i learned
 
 - Hot to create classes, abstract classes and methods
 - Abstraction, Encapsulation, Inheritance, Composition and Polymorfism comcepts
 - SOLID principles: <strong>S</strong>ingle Responsability, <strong>O</strong>pen/Closed, <strong>L</strong>iskov Substitution, <strong>I</strong>nterface segregation, <strong>D</strong>ependency Inversion
+
+# 🎖️ Grade 🎖️
+
+<div align='center'>
+<img alt="dragon-grade-img" src="./dragons-grade.png">
+</div>
 
 
 [Typescript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
