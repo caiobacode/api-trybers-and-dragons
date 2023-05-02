@@ -16,7 +16,7 @@ and types for a Dungeons and Dragons-style RPG game using OOP and SOLID principl
  
 ## ✏️ What i learned
 
-- Hot to create classes, abstract classes and methods
+- How to create classes, abstract classes and methods
 - Abstraction, Encapsulation, Inheritance, Composition and Polymorfism comcepts
 - SOLID principles: <strong>S</strong>ingle Responsability, <strong>O</strong>pen/Closed, <strong>L</strong>iskov Substitution, <strong>I</strong>nterface segregation, <strong>D</strong>ependency Inversion
 
